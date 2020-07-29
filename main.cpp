@@ -8,6 +8,10 @@
 
 using namespace std;
 
+
+
+/**Hey there, there's literally no comments here, and the program itself is stupidly inefficient**/
+
 void OutputChar(int charIndex);
 
 int LoopExitLocation(int startingIndex, char array[], int size);
@@ -106,10 +110,16 @@ int ExecuteBFCode(char code[], int cellCount, int pointerLocation, int Delay, in
                 break;
             case '+':
                 cells[pointerLocation]++;
+                if(cells[pointerLocation] > 255){
+                    cells[pointerLocation] = 0;
+                }
                 interpreterLocation++;
                 break;
             case '-':
                 cells[pointerLocation]--;
+                if(cells[pointerLocation] < 0){
+                    cells[pointerLocation] = 255;
+                }
                 interpreterLocation++;
                 break;
             case '.':

@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/tskup/CLionProjects/ZPlusPlus/main.cpp" "C:/Users/tskup/CLionProjects/ZPlusPlus/cmake-build-debug/CMakeFiles/bfv.dir/main.cpp.obj"
-  "C:/Users/tskup/CLionProjects/ZPlusPlus/output.cpp" "C:/Users/tskup/CLionProjects/ZPlusPlus/cmake-build-debug/CMakeFiles/bfv.dir/output.cpp.obj"
+  "E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/main.cpp" "E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/cmake-build-debug/CMakeFiles/bfv.dir/main.cpp.obj"
+  "E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/output.cpp" "E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/cmake-build-debug/CMakeFiles/bfv.dir/output.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

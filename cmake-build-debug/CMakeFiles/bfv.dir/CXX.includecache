@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/tskup/CLionProjects/ZPlusPlus/main.cpp
+E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/main.cpp
 iostream
 -
 output.h
-C:/Users/tskup/CLionProjects/ZPlusPlus/output.h
+E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/output.h
 cstdlib
 -
 list
@@ -22,9 +22,9 @@ fstream
 algorithm
 -
 
-C:/Users/tskup/CLionProjects/ZPlusPlus/output.cpp
+E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/output.cpp
 output.h
-C:/Users/tskup/CLionProjects/ZPlusPlus/output.h
+E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/output.h
 windows.h
 -
 iostream
@@ -34,7 +34,7 @@ list
 stdlib.h
 -
 
-C:/Users/tskup/CLionProjects/ZPlusPlus/output.h
+E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/output.h
 list
 -
 

@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\tskup\CLionProjects\ZPlusPlus
+CMAKE_SOURCE_DIR = E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\tskup\CLionProjects\ZPlusPlus\cmake-build-debug
+CMAKE_BINARY_DIR = E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/bfv.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/bfv.dir/flags.make
 
 CMakeFiles/bfv.dir/main.cpp.obj: CMakeFiles/bfv.dir/flags.make
 CMakeFiles/bfv.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tskup\CLionProjects\ZPlusPlus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bfv.dir/main.cpp.obj"
-	C:\MG64\MinGW64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\bfv.dir\main.cpp.obj -c C:\Users\tskup\CLionProjects\ZPlusPlus\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bfv.dir/main.cpp.obj"
+	C:\MG64\MinGW64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\bfv.dir\main.cpp.obj -c E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\main.cpp
 
 CMakeFiles/bfv.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/bfv.dir/main.cpp.i"
-	C:\MG64\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tskup\CLionProjects\ZPlusPlus\main.cpp > CMakeFiles\bfv.dir\main.cpp.i
+	C:\MG64\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\main.cpp > CMakeFiles\bfv.dir\main.cpp.i
 
 CMakeFiles/bfv.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/bfv.dir/main.cpp.s"
-	C:\MG64\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tskup\CLionProjects\ZPlusPlus\main.cpp -o CMakeFiles\bfv.dir\main.cpp.s
+	C:\MG64\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\main.cpp -o CMakeFiles\bfv.dir\main.cpp.s
 
 CMakeFiles/bfv.dir/output.cpp.obj: CMakeFiles/bfv.dir/flags.make
 CMakeFiles/bfv.dir/output.cpp.obj: ../output.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tskup\CLionProjects\ZPlusPlus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/bfv.dir/output.cpp.obj"
-	C:\MG64\MinGW64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\bfv.dir\output.cpp.obj -c C:\Users\tskup\CLionProjects\ZPlusPlus\output.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/bfv.dir/output.cpp.obj"
+	C:\MG64\MinGW64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\bfv.dir\output.cpp.obj -c E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\output.cpp
 
 CMakeFiles/bfv.dir/output.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/bfv.dir/output.cpp.i"
-	C:\MG64\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tskup\CLionProjects\ZPlusPlus\output.cpp > CMakeFiles\bfv.dir\output.cpp.i
+	C:\MG64\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\output.cpp > CMakeFiles\bfv.dir\output.cpp.i
 
 CMakeFiles/bfv.dir/output.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/bfv.dir/output.cpp.s"
-	C:\MG64\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tskup\CLionProjects\ZPlusPlus\output.cpp -o CMakeFiles\bfv.dir\output.cpp.s
+	C:\MG64\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\output.cpp -o CMakeFiles\bfv.dir\output.cpp.s
 
 # Object files for target bfv
 bfv_OBJECTS = \
@@ -96,7 +96,7 @@ bfv.exe: CMakeFiles/bfv.dir/build.make
 bfv.exe: CMakeFiles/bfv.dir/linklibs.rsp
 bfv.exe: CMakeFiles/bfv.dir/objects1.rsp
 bfv.exe: CMakeFiles/bfv.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\tskup\CLionProjects\ZPlusPlus\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable bfv.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable bfv.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\bfv.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/bfv.dir/clean:
 .PHONY : CMakeFiles/bfv.dir/clean
 
 CMakeFiles/bfv.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\tskup\CLionProjects\ZPlusPlus C:\Users\tskup\CLionProjects\ZPlusPlus C:\Users\tskup\CLionProjects\ZPlusPlus\cmake-build-debug C:\Users\tskup\CLionProjects\ZPlusPlus\cmake-build-debug C:\Users\tskup\CLionProjects\ZPlusPlus\cmake-build-debug\CMakeFiles\bfv.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\cmake-build-debug E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\cmake-build-debug E:\Users\tskup\Documents\GitHub\Brainfuck-Visualizer\cmake-build-debug\CMakeFiles\bfv.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/bfv.dir/depend
 
