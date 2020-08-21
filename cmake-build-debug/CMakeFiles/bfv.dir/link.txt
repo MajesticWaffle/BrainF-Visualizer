@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\bfv.dir/objects.a
-C:\MG64\MinGW64\mingw64\bin\ar.exe cr CMakeFiles\bfv.dir/objects.a @CMakeFiles\bfv.dir\objects1.rsp
-C:\MG64\MinGW64\mingw64\bin\g++.exe -g  -static -Wl,--whole-archive CMakeFiles\bfv.dir/objects.a -Wl,--no-whole-archive  -o bfv.exe -Wl,--out-implib,libbfv.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bfv.dir\linklibs.rsp

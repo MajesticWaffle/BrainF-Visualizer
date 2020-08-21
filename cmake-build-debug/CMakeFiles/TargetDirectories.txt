@@ -1,3 +1,0 @@
-E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/cmake-build-debug/CMakeFiles/bfv.dir
-E:/Users/tskup/Documents/GitHub/Brainfuck-Visualizer/cmake-build-debug/CMakeFiles/edit_cache.dir
